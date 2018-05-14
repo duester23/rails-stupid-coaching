@@ -1,0 +1,33 @@
+// Place all the styles related to the Questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.quest-card {
+  font-family: 'Roboto', sans-serif;
+  height: 50px;
+  width: 500px;
+  background: #C0C0C0;
+  padding: 20px;
+  margin: 20px
+}
+.ask-card {
+  font-family: 'Roboto', sans-serif;
+  height: 50px;
+  width: 500px;
+  background: #C0C0C0;
+  padding: 20px;
+  margin: 20px;
+}
+.another-card {
+font-family: 'Roboto', sans-serif;
+height: 50px;
+width: 200px;
+background: red;
+margin: 20px;
+padding: 20px;
+text-align: center;
+} a {
+  color: white;
+}
+.options {
+   background: #C0C0C0;
+}
